@@ -42,7 +42,3 @@
 - `presentation.pdf` → สไลด์นำเสนอ  
 
 ---
-
-📸 *(ถ้ามีภาพกราฟ/แดชบอร์ด แนะนำให้ใส่รูปด้านล่างนี้)*  
-```markdown
-![Dashboard Preview](images/dashboard.png)
