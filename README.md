@@ -36,9 +36,10 @@
 ---
 
 **ไฟล์ประกอบ**
-- `งานMiniproject.ipynb` → โค้ดหลักของการวิเคราะห์  
-- `Datathai_cleaned67.xlsx` → ข้อมูลหลังการทำความสะอาด  
-- `project_report.pdf` → รายงานฉบับสมบูรณ์  
-- `presentation.pdf` → สไลด์นำเสนอ  
+- `Datathai_cleaned67.xlsx` ข้อมูลหลังการทำความสะอาด
+- `Data67.csv`  ข้อมูลที่ใช้วิเคราะห์จริง 
+- `งานMiniproject.ipynb` โค้ดหลักของการวิเคราะห์ 
+- `project_report.pdf` รายงานฉบับสมบูรณ์  
+- `presentation.pdf` สไลด์นำเสนอ  
 
 ---
